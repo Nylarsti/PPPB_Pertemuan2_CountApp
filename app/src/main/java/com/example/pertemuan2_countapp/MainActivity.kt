@@ -1,6 +1,5 @@
 package com.example.pertemuan2_countapp
 
-import android.R
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
